@@ -1,0 +1,59 @@
+{
+    "details":
+    {
+        "image":"profile.png",
+      "name":"Nagendra Thoram",
+      "mobile":929873399,
+      "Email":"nagendrathoram@gmail.com",
+      "address":"Hyderabad",
+      "ca":"Aiming to work as a software developer and utilize my skills for the growth of an organization"
+    },
+
+
+    "cardsdata":
+    [
+        {
+            "name":"Giet",
+            "year":2021,
+            "Percent":8.59
+
+    },
+    {
+        "name":"Aditya College",
+        "year":2017,
+            "Percent":97.2
+     }   ,
+    {
+        "name":"IJEHMS",
+        "year":2015,
+            "Percent":9.5
+     }
+
+    ],
+
+    "skill":
+    {
+        "sk":["Python","Java","C","basic knowledge in sql"],
+        "pro":"Developed a canteen management system using HTML, Servlets and JSP, JDBC and Oracle"
+    },
+
+    "hobby":
+    {
+        "h":["Surfing Net","Reading Books"]
+    },
+    "achieve":
+    {
+        "ai":[
+            
+            "Certified in NPTEL Java Certification with Elite Silver ",
+            "Certified in NPTEL DBMS Certification with Elite" ,
+            "Certification course on Python Programming from Coursera ",
+            " Certification course on Cloud Computing Basics from Coursera "
+            
+            
+        ],
+        "declare":"I hereby declare that above mentioned details are true to the best of my Knowledge"
+    }
+   
+    
+}
